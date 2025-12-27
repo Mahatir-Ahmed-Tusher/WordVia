@@ -34,7 +34,7 @@ export default function AboutPage() {
           <div className="glass-card p-6 md:p-8 space-y-6 animate-slide-up">
             <div className="prose prose-invert max-w-none space-y-5">
               <p className="text-foreground/90 leading-relaxed text-lg">
-                <span className="text-primary font-semibold">WordVia</span> was one of my most cherished pastimes growing up. Back then, it wasn't an app; it was a simple game played with nothing but pen and paper in our notebooks. I spent hours playing it with my cousin, <span className="text-primary font-medium">Limon Ahmed</span>. To this day, I'm not sure if he invented the game himself or learned it elsewhere, as he never mentioned its origins.
+                <span className="text-primary font-semibold">WordVia</span> was one of my most cherished pastimes growing up. Back then, it wasn&apos;t an app; it was a simple game played with nothing but pen and paper in our notebooks. I spent hours playing it with my cousin, <span className="text-primary font-medium">Limon Ahmed</span>. To this day, I&apos;m not sure if he invented the game himself or learned it elsewhere, as he never mentioned its origins.
               </p>
 
               <p className="text-foreground/90 leading-relaxed text-lg">
@@ -42,7 +42,7 @@ export default function AboutPage() {
               </p>
 
               <p className="text-foreground/90 leading-relaxed text-lg">
-                As I grew up, the game faded into memory until the <span className="text-primary font-medium">COVID-19 lockdown</span>. Stuck at home, I reintroduced the game to my younger siblings, <span className="text-primary font-medium">Punno</span> and <span className="text-primary font-medium">Nourin</span>, using the same old-fashioned notebooks. At the time, their English was limited; I often had to "play dumb" or act as their tutor to keep the game going.
+                As I grew up, the game faded into memory until the <span className="text-primary font-medium">COVID-19 lockdown</span>. Stuck at home, I reintroduced the game to my younger siblings, <span className="text-primary font-medium">Punno</span> and <span className="text-primary font-medium">Nourin</span>, using the same old-fashioned notebooks. At the time, their English was limited; I often had to &quot;play dumb&quot; or act as their tutor to keep the game going.
               </p>
 
               <p className="text-foreground/90 leading-relaxed text-lg">
@@ -50,7 +50,7 @@ export default function AboutPage() {
               </p>
 
               <p className="text-foreground/90 leading-relaxed text-lg">
-                Inspired by these memories, I decided to evolve the game from the pages of a notebook into a mobile application. I named it "<span className="text-primary font-semibold">WordVia</span>" as a tribute to those childhood afternoons with Limon Bhaia and as a dedication to Punno and Nourin, the two people who loved this game as much as I did.
+                Inspired by these memories, I decided to evolve the game from the pages of a notebook into a mobile application. I named it &quot;<span className="text-primary font-semibold">WordVia</span>&quot; as a tribute to those childhood afternoons with Limon Bhaia and as a dedication to Punno and Nourin, the two people who loved this game as much as I did.
               </p>
             </div>
 

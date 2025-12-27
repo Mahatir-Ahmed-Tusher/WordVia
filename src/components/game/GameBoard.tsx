@@ -411,7 +411,7 @@ export function GameBoard() {
           alt="" 
           className="w-4 h-4 object-contain animate-spin-once"
         />
-        <span>{currentPlayer.name}'s Turn</span>
+        <span>{currentPlayer.name}&apos;s Turn</span>
       </div>
 
       {/* Game grid with glow */}

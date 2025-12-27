@@ -177,7 +177,7 @@ export default function RulesPage() {
                     </li>
                     <li className="flex items-center gap-2">
                       <X className="w-3 h-3 text-red-500" />
-                      <span>Plurals ending with "s"</span>
+                      <span>Plurals ending with &quot;s&quot;</span>
                     </li>
                     <li className="flex items-center gap-2">
                       <X className="w-3 h-3 text-red-500" />
@@ -240,7 +240,7 @@ export default function RulesPage() {
               </div>
               <div>
                 <h2 className="text-xl font-display font-bold text-foreground mb-3">6. Word Confirmation (Last-Letter Challenge)</h2>
-                <p className="text-foreground/80 mb-3">If a player's last placed letter creates <strong>multiple possible valid words</strong>:</p>
+                <p className="text-foreground/80 mb-3">If a player&apos;s last placed letter creates <strong>multiple possible valid words</strong>:</p>
                 <ul className="space-y-2 text-foreground/80">
                   <li className="flex items-start gap-2">
                     <span className="text-primary">•</span>
@@ -291,7 +291,7 @@ export default function RulesPage() {
                   </li>
                   <li className="ml-6 flex items-start gap-2">
                     <span className="text-muted-foreground">◦</span>
-                    <span>Totals all players' scores</span>
+                    <span>Totals all players&apos; scores</span>
                   </li>
                   <li className="ml-6 flex items-start gap-2">
                     <span className="text-muted-foreground">◦</span>
@@ -325,7 +325,7 @@ export default function RulesPage() {
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary">•</span>
-                    <span>Blocking opponents' future words is a <strong>valid strategy</strong>.</span>
+                    <span>Blocking opponents&apos; future words is a <strong>valid strategy</strong>.</span>
                   </li>
                   <li className="flex items-start gap-2">
                     <span className="text-primary">•</span>

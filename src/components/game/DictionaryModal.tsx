@@ -153,7 +153,7 @@ export function DictionaryModal({ onClose }: DictionaryModalProps) {
                         <span className="text-foreground">{def.definition}</span>
                         {def.example && (
                           <p className="text-muted-foreground text-sm mt-1 ml-5 italic">
-                            "{def.example}"
+                            &quot;{def.example}&quot;
                           </p>
                         )}
                       </li>

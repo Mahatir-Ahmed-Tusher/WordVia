@@ -135,7 +135,7 @@ export function WordResultsDisplay({
                 <span><strong>{opponentName}</strong>, do you want to challenge {currentPlayerName}?</span>
               </p>
               <p className="text-xs text-orange-300/70 mt-1">
-                Click "Challenge This Word!" to test if they know the meaning
+                Click &quot;Challenge This Word!&quot; to test if they know the meaning
               </p>
             </div>
           )}

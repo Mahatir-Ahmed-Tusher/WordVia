@@ -214,7 +214,7 @@ export function ChallengeModal({
             Cancel
           </Button>
           <Button
-            onClick={handleSubmit}
+            onClick={() => handleSubmit()}
             disabled={!meaning.trim() || isVerifying}
             className="flex-1 h-12 game-button game-button-primary"
           >

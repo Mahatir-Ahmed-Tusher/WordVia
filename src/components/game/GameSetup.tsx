@@ -344,7 +344,7 @@ export function GameSetup({ gameMode }: GameSetupProps) {
               <p className="flex items-start gap-2">
                 <Sparkles className="w-3 h-3 mt-0.5 flex-shrink-0 text-accent-foreground" />
                 <span>
-                  Word meanings won't be shown. Players can challenge scored words.
+                  Word meanings won&apos;t be shown. Players can challenge scored words.
                   {isPvB && ' Bot will provide meaning automatically when challenged.'}
                 </span>
               </p>
